@@ -1,10 +1,10 @@
 # Site settings
 name: mings Blog
 email: 90mings@gmail.com
-author: minsoo.jang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
+author: Freud Kang
+url: 
+resume_site: 
+github: 
 baseurl: "https://90mings.github.io/"
 description: description테스트
 meta_description: meta_description테스트
